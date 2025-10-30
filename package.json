@@ -1,0 +1,14 @@
+{
+  "name": "cp3_gestao_estoque",
+  "version": "1.0.0",
+  "description": "Sistema simples de gestão de estoque para produtos perecíveis e não-perecíveis",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.9",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
